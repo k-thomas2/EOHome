@@ -64,3 +64,10 @@ small{
   color:#30363E;
   text-align: center;
 }
+.thumbnail_align{
+ padding: 2em;
+}
+img{
+  border-radius: 20%;
+  width: 300px;
+}
