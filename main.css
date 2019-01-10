@@ -28,16 +28,6 @@ li{
   color: whitesmoke;
   text-shadow: 12px 12px 20px #30363E
 }
-span{
-  width: 80px;
-  height: 80px;
-  position: relative;
-  align-items: middle;
-  bottom: 0;
-  left: 0;
-  background: #30363E;
-  border-radius: 80%;
-}
 p{
   font-size: 0.3em;
   place-items: center;
@@ -50,4 +40,24 @@ h1{
   justify-content: center;
   align-items: middle;
   place-items: center;
+}
+button{
+  justify-content: center;
+  align-items: middle;
+  place-items: center;
+}
+.btn{
+  text-align: center;
+  place-items: center;
+}
+label{
+  font-size: 0.2em;
+}
+small{
+  font-size: 0.15em;
+}
+.signin{
+  font-size: 0.2em;
+  color:#30363E;
+  text-align: center;
 }
