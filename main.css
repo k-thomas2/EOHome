@@ -10,6 +10,9 @@ body{
 *{
   background-color:none;
 }
+.mainsection{
+  background-color: none;
+}
 section{
   height: 100%;
 }
