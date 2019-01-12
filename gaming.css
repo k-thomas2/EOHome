@@ -1,0 +1,58 @@
+.navbar{
+    background-color: #E1A62f;
+    font-family: 'Fjalla One', sans-serif;
+    z-index: 0;
+    text-transform: uppercase;
+}
+.nav-item{
+    font-family: 'Quicksand', sans-serif;
+    justify-content: end;
+}
+.nav-item a:hover{
+    color: #ba5f14;
+}
+.sidenav {
+    height: auto; 
+    width: 160px; 
+    position: fixed; 
+    z-index: 2; 
+    top: 2; 
+    right: 0;
+    overflow-x: hidden; 
+    padding-top: 20px;
+  }
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #373e47;
+    display: block;
+    font-family: 'Quicksand', sans-serif;
+    text-align: right;
+  }
+  .sidenav a:hover {
+    color: #946301;
+  }
+  h1{
+    font-family: 'Fjalla One', sans-serif;
+  }
+  footer a:hover{
+      color: #ba5f14;
+  }
+  .secondary-header {
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color:  #f4c057;
+	clear: left;
+}
+.jumbotron{
+    align-content: center;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+#outing-pop{
+    align-content: center;
+    text-align: center;
+}
